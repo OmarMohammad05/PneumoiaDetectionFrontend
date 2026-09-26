@@ -1,0 +1,1 @@
+ C:\\Users\\NTC\\Desktop\\Breathe_x\\.dart_tool\\flutter_build\\af15ee3c98fa59380e348dde16264624\\native_assets.json: 

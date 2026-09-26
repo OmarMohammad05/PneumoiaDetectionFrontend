@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34965744725",
+    "project_id": "breathex-1db4e",
+    "storage_bucket": "breathex-1db4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34965744725:android:65cfab49859dc0b19db8dc",
+        "android_client_info": {
+          "package_name": "com.BreatheXX.breathe_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmIlCJfj_U8-3Mvdyd5EulbxkeJ_wb7wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

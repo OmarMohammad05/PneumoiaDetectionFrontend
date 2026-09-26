@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\NTC\Desktop\Breathe_x\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.9.2"
+    buildFolder="C:\Users\NTC\Desktop\Breathe_x\build\app"
+    bootClassPath="C:\Users\NTC\AppData\Local\Android\sdk\platforms\android-35\android.jar;C:\Users\NTC\AppData\Local\Android\sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-35">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
